@@ -1,4 +1,4 @@
-# Full-Stack Loan Management System
+# Full-Stack Intelligent Loan Eligibility Calculator
 
 A MERN stack web application that helps users calculate, compare, and manage loans with EMI prediction and eligibility analysis.
 
