@@ -2,7 +2,7 @@
 
 A MERN stack web application that helps users calculate, compare, and manage loans with EMI prediction and eligibility analysis.
 
-## 🚀 Overview
+##  Overview
 
 This project allows users to:
 - Register and login securely
@@ -10,7 +10,7 @@ This project allows users to:
 - Compare multiple loan options
 - Store and manage loan history
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 Frontend:
 - React (Vite)
@@ -31,7 +31,7 @@ Frontend/   → React application
 Backend/    → Node + Express API  
 Database/   → MongoDB (cloud/local)
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Backend
 cd Backend
@@ -43,7 +43,7 @@ cd Frontend/loan-project
 npm install
 npm run dev
 
-## ✨ Features
+##  Features
 
 - JWT Authentication
 - EMI Calculator
