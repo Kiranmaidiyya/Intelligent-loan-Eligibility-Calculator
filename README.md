@@ -50,3 +50,13 @@ npm run dev
 - Loan Comparison Tool
 - History Tracking
 - Interactive Dashboard
+
+  # Project Report Link
+
+  # Demo Link
+  https://drive.google.com/file/d/1KMw31XXL-7FRbjxXhkMfhEndMgsBV6Js/view?usp=sharing
+
+  # Code Explanation Link
+  https://drive.google.com/file/d/1l9ToYENbS456fOPn4ExktzfOonRYmg7N/view?usp=sharing
+  
+  
