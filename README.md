@@ -52,6 +52,7 @@ npm run dev
 - Interactive Dashboard
 
   ### Project Report Link
+  https://docs.google.com/document/d/1utwoID9z-74FVBqus5m7OvcJ9OMpf0ON/edit?usp=sharing&ouid=101165796878778094135&rtpof=true&sd=true
 
   ### Demo Link
   https://drive.google.com/file/d/1KMw31XXL-7FRbjxXhkMfhEndMgsBV6Js/view?usp=sharing
